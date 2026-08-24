@@ -1,0 +1,4 @@
+interface:
+  display_name: "LP Conversion Strategy"
+  short_description: "Plan high-converting landing pages"
+  default_prompt: "Use $lp-conversion-strategy to sharpen the ICP, offer, proof, and conversion plan for this landing page."

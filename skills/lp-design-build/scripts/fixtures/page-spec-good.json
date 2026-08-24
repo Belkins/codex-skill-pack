@@ -1,0 +1,22 @@
+{
+  "visualDirection": {
+    "theme": "voice-native dark editorial",
+    "memorableElement": "an inspectable live practice console as the hero proof"
+  },
+  "firstViewport": {
+    "mobile": "brand, concrete speaking promise, try-demo CTA, free terms, visible console edge",
+    "desktop": "brand, promise, CTAs, proof stats, full practice console"
+  },
+  "components": [
+    "pages/marketing/LandingPage.tsx",
+    "components/landing/Features.tsx",
+    "components/landing/Testimonials.tsx"
+  ],
+  "responsivePlan": {
+    "viewports": [390, 430, 768, 1024, 1440]
+  },
+  "states": ["loading", "hover", "focus", "demo expired"],
+  "accessibility": ["semantic headings", "labeled CTAs", "focus states", "44px touch targets"],
+  "performanceBudgets": { "mainJsKb": 900, "cssKb": 220 },
+  "handoffChecks": ["npm run build", "browser screenshots", "CTA smoke"]
+}

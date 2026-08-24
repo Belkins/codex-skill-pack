@@ -1,0 +1,32 @@
+{
+  "hero": {
+    "eyebrow": "Live voice practice",
+    "h1": "Practice real Spanish conversations before your trip",
+    "subhead": "Talk through realistic scenarios with an AI tutor that replies by voice and saves your next correction.",
+    "primaryCta": "Try the voice demo",
+    "secondaryCta": "Create free account",
+    "aboveFoldProof": "3-minute demo and 30 min/day after signup"
+  },
+  "primaryCtaInstances": ["Try the voice demo"],
+  "sections": [
+    { "job": "orient", "headline": "Speak before you sign up", "ctaRole": "primary" },
+    { "job": "prove", "headline": "See the correction loop", "ctaRole": "secondary" },
+    { "job": "explain", "headline": "How practice turns into progress", "ctaRole": "none" },
+    { "job": "trust", "headline": "Proof learners can inspect", "ctaRole": "secondary" },
+    { "job": "convert", "headline": "Start with a short session", "ctaRole": "primary" }
+  ],
+  "proofClaims": [
+    { "claim": "Voice demo before signup", "evidenceType": "product demo", "sourceStatus": "implemented" },
+    { "claim": "30 min/day after signup", "evidenceType": "pricing/free terms", "sourceStatus": "needs consistency check" },
+    { "claim": "Corrections are saved", "evidenceType": "product workflow", "sourceStatus": "implemented" }
+  ],
+  "offer": "Free demo, then free daily minutes after signup",
+  "objections": [
+    "Do I need a microphone?",
+    "What happens after the demo?",
+    "Is it free?",
+    "Will it correct my mistakes?",
+    "Which languages are supported?"
+  ],
+  "analyticsHypothesis": "A clearer demo-first hero increases hero_try_demo clicks"
+}

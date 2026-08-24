@@ -1,0 +1,4 @@
+interface:
+  display_name: "LP Verification Gate"
+  short_description: "QA landing pages before launch"
+  default_prompt: "Use $lp-verification-gate to verify this landing page across conversion, responsive, browser, and performance checks."

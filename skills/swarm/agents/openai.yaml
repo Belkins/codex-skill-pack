@@ -1,0 +1,4 @@
+interface:
+  display_name: "Swarm"
+  short_description: "Coordinate multiple agents on a goal"
+  default_prompt: "Use $swarm to coordinate specialist agents for this goal."

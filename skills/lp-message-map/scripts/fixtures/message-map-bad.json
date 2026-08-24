@@ -1,0 +1,11 @@
+{
+  "hero": {
+    "h1": "Master anything",
+    "subhead": "Great app",
+    "primaryCta": "Get started"
+  },
+  "primaryCtaInstances": ["Try demo"],
+  "sections": [],
+  "proofClaims": [],
+  "objections": []
+}

@@ -1,0 +1,22 @@
+{
+  "page": "/",
+  "primaryAudience": "Busy adult Spanish learners with an upcoming trip or interview",
+  "jobToBeDone": "Get realistic speaking reps without scheduling a human tutor",
+  "triggerMoment": "They realize vocabulary apps are not preparing them to speak out loud",
+  "outcome": "Complete a short voice practice session and understand the next correction to work on",
+  "positioningSentence": "SpeakFlow is an AI voice tutor for busy learners who need real speaking practice before a high-stakes moment.",
+  "primaryConversion": "Try the voice demo",
+  "secondaryConversion": "Create a free account after the demo",
+  "proofRequirements": [
+    "Interactive voice demo above the fold",
+    "Screenshot or transcript of a correction",
+    "Clear free tier terms",
+    "Real testimonial or mark testimonial slots as needed"
+  ],
+  "offerFrame": "Free voice demo, then 30 min/day after signup",
+  "antiAudience": "Users looking only for passive vocabulary games",
+  "risks": [
+    "Unsupported user count or rating claims",
+    "Multiple competing primary CTAs"
+  ]
+}

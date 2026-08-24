@@ -1,0 +1,4 @@
+interface:
+  display_name: "LP Design Build"
+  short_description: "Build distinctive landing-page UI"
+  default_prompt: "Use $lp-design-build to implement this message map as a polished, responsive landing page."

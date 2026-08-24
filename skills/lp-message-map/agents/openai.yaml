@@ -1,0 +1,4 @@
+interface:
+  display_name: "LP Message Map"
+  short_description: "Write conversion-first page narratives"
+  default_prompt: "Use $lp-message-map to turn this landing-page strategy into hero copy, section order, CTAs, proof, and objections."
